@@ -1,3 +1,5 @@
+## Programming Assignment 2
+
 ## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse
 
 ## 1. set the value of the matrix
@@ -34,3 +36,4 @@ cacheSolve<-function(x, ...) {
         x$set_inverse(inverse)
         inverse
 }
+
